@@ -2,7 +2,7 @@ package com.example.data
 
 import android.content.Context
 import androidx.room.*
-import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.Flow 
 
 @Entity(tableName = "game_state")
 data class GameState(
