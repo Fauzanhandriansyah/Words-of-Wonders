@@ -1,6 +1,6 @@
 {
   "name": "Words of Wonders",
   "description": "Sebuah game teka-teki roda kata yang seru dengan 1000 level menantang dari Mudah hingga Sulit, sistem petunjuk harian, gems, dan pergantian latar belakang tempat wisata indah setiap 50 level.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": [], 
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
