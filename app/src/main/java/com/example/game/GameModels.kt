@@ -29,7 +29,6 @@ data class BaseWordFamily(
 
 object LevelGenerator {
     
-    // Easy Pool: 3 to 4 letter root words
     private val easyPool = listOf(
         BaseWordFamily("KOTA", listOf("KOTA", "OTAK", "TOK", "TAK")),
         BaseWordFamily("BATU", listOf("BATU", "BUAT", "TUA", "BAU", "ABU", "BUTA", "TAU")),
