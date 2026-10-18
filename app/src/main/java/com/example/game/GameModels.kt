@@ -63,8 +63,7 @@ object LevelGenerator {
         BaseWordFamily("MASA", listOf("MASA", "ASAM", "SAMA", "ASA", "AMA", "MAS")),
         BaseWordFamily("PENA", listOf("PENA", "NEPA", "PAN", "ENA", "PEN"))
     )
-
-    // Medium Pool: 5 letter root words
+    
     private val mediumPool = listOf(
         BaseWordFamily("HARUM", listOf("HARUM", "MURAH", "RUMAH", "RUAM", "MAU", "AUM")),
         BaseWordFamily("DUNIA", listOf("DUNIA", "DAUN", "DUA", "ADU", "DAN", "UNI", "ADI", "DIA")),
