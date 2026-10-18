@@ -95,7 +95,6 @@ object LevelGenerator {
         BaseWordFamily("BUAYA", listOf("BUAYA", "BAU", "BAYA", "ABU", "ABA"))
     )
 
-    // Hard Pool: 6 to 7 letter root words
     private val hardPool = listOf(
         BaseWordFamily("KERTAS", listOf("KERTAS", "RETAK", "KERAS", "SERTA", "KARET", "TERAS", "REKSA", "ERA", "KAS", "TEKAS")),
         BaseWordFamily("BINTANG", listOf("BINTANG", "BIANG", "TIANG", "BANG", "NANTI", "TIGA", "NAGI", "TANG", "BING")),
